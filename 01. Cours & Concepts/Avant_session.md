@@ -1,3 +1,8 @@
+---
+title: 🎯 Avant la session – Réflexes Rapides en Micro MTT
+parent: 01. Cours & Concepts
+---
+
 🧠 Réflexes Rapides – Exploit Micro MTT (1€ / 2€)
 
 ⸻
